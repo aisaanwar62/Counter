@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "FirstName": "Zara",
+      "LastName": "Farukh",
+      "email": "zara@gmail.com",
+      "id": "17ff"
+    },
+    {
+      "email": "sania@gmail.com",
+      "id": "94e6"
+    },
+    {
+      "FirstName": "Ayesha",
+      "LastName": "Anwar",
+      "email": "ayeshaanwar542002@gmail.com",
+      "Address": "fgjhkl;",
+      "PhoneNo": "345632",
+      "id": "37eb"
+    },
+    {
+      "id": "45d3",
+      "loginId": "Hania",
+      "email": "ayesha@g.c",
+      "password": "$2a$10$ZgWihIcsZrd4Vhymktv.r.nM7juS7o8akGpITC19fbfFPCXGr3HeK",
+      "ConfirmPassword": "Hania@123"
+    },
+    {
+      "FirstName": "Nimra ",
+      "LastName": "Khan",
+      "email": "nimra@gmail.com",
+      "Address": "fgdfh",
+      "PhoneNo": "44321.0",
+      "id": "eadf"
+    }
+  ]
+}
